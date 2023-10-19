@@ -1,1 +1,1 @@
-# DatabaseFinalProject-Polling-System
+# SQL Database Polling System - Final Project
